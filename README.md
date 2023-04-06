@@ -1,2 +1,3 @@
-# GDSC_week-2
-javascript week 2
+# GDSC - AASTU Google Developers Study Session
+---
+This repository contains weekly tasks execrcise for GDSC
